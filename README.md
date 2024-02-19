@@ -1,6 +1,8 @@
 # Clone-Instagram
 
-Um clone do istagram, da parte do perfil criado para estudo, utilizando HTML, CSS e JavaScript. Link de acesso: https://wendel25.github.io/Clone-Instagram/
+Um clone do istagram, da parte do perfil criado para estudo, utilizando HTML, CSS e JavaScript. 
+
+Link de acesso: https://wendel25.github.io/Clone-Instagram/
 
 
 
